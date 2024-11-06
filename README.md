@@ -10,7 +10,7 @@
 
 ## 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖 About the Project](#I want setup a websit)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -21,11 +21,11 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
-- [👥 Authors](#authors)
+- [👥 Authors](# BLAISE)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [🙏 Acknowledgements](#I am acknowledging the Codiegisoft Academy staff most especially Mr Ngala)
+- [📝 License](#All right reserved but no direct copy right.)
 
 # 📖 Hello Codegisoft Aca <a name="about-project"></a>
 
@@ -102,7 +102,7 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 *Ngala Mac*
+👤 *sSHIMINYI BLAISE*
 
 - GitHub: [@ngalamac](https://github.com/ngalamac/Hello-Codegisoft Academy.git)
 

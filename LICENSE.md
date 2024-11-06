@@ -1,1 +1,1 @@
-ulygygyu99gc;ylhi;vul8ghio.,iukyvlghiluyg
+All right reserved but no direct copy right.
