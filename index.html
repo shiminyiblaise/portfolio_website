@@ -9,28 +9,29 @@
 <body>
   <!--Header Section markup-->  
   <header>
+    <nav>
     <div class="logo">
-        <a href="#">Blaise</a>
-    </div>
-    <div class="menu">
-<nav>
-    <div class="mobile_menu">
+    <a href="#">Blaise</a>
+</div>
+<div class="menu">
+<div class="mobile_menu">
 <p></p>
 <p></p>
 <p></p>
-    </div>
-    <div class="desktop_menu">
-        <ul>
-            <li><a href="#">Portfolio</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </div>
+</div>
+<div class="desktop_menu">
+    <ul>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#about_section">About</a></li>
+        <li><a href="#contact_section">Contact</a></li>
+    </ul>
+</div>
+
+  </div>
 </nav>
-    </div>
   </header>
   <main>
-    <section class="hero">
+    <section class="hero" id="portfolio">
 <h1><span class="first">Hey there.
    I'm Blaise.</span><br>
 <span class="second">I'm a software developer</span>
@@ -130,7 +131,7 @@
     </div>
 </div>
 </section>
-<section class="about">
+<section class="about" id="about_section">
 <div class="about_text">
     <h2>About me</h2>
     <p> I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, 
@@ -162,7 +163,7 @@
     </div>
 
     <div class="about_card">
-        <img src="./assets/icon-skills.svg" alt="Skills">
+        <img src="./assets/images/icon-skills.svg" alt="Skills">
         <h3>Skills</h3>
         <ul>
             <li>Database Management</li>
@@ -175,15 +176,15 @@
 
 </div>
 </section>
-<section class="contact">
+<section class="contact" id="contact_section">
 <div class="contact_para">
     <p>I'm always interested in hearing about new projects, so if you'd like to chat please get in touch.</p>
 </div>
 <div class="contact_form">
-    <form action="">
-        <input type="text" placeholder="Full name" maxlength="320" required>
-        <input type="email" placeholder="Email address" maxlength="320" required>
-        <textarea name="" id="" placeholder="Hey I'd like to connect to..."></textarea>
+        <form action="https://formspree.io/f/mdkozdpn" method="post">
+                <input type="text" placeholder="Full name" maxlength="320" required name="fullname">
+        <input type="email" placeholder="Email address" maxlength="320" required name="email">
+        <textarea name="message"  placeholder="Hey I'd like to connect to..."></textarea>
         <button type="submit" class="abt_btn">Get in touch</button>
     </form>
     <a href="mailto:shiminyiblaise650@gmail.com" class="email">shiminyiblaise650@gmail.com</a>
