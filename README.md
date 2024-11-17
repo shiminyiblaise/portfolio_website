@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#I am acknowledging the Codiegisoft Academy staff most especially Mr Ngala)
 - [📝 License](#All right reserved but no direct copy right.)
 
-# 📖 Hello Codegisoft Aca <a name="about-project"></a>
+# 📖 Blaise_portfolio_website <a name="about-project"></a>
 
 This is the first technical Codegisoft Academy project it tests more on Git, GitHub, GitHub Workflow and Linters.
 
@@ -47,6 +47,9 @@ This is the first technical Codegisoft Academy project it tests more on Git, Git
 - *Configuring Linters*
 - *Implementation of figma design
 - *Better text infracture and colours with html and css
+- *Tablete/Desktop implementation
+- *Contact form functionality
+- *Implementation of hero section links functionality
 - *Creating pull requests and merging*
 
 A demo link will be uploaded subsequently.
@@ -105,7 +108,7 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 *sSHIMINYI BLAISE*
+👤 *SHIMINYI BLAISE*
 
 - GitHub: [@shiminyiblaise](https://github.com/shiminyiblaise/BLAISE)
 
@@ -114,11 +117,10 @@ sh
  ## 🔭 Future Features <a name="future-features"></a>
 
 - integration with javascript
-- Adding more html contents
 - Implementing some functions
-- Responsives on mobiles,Desktops,Laptops and Tabletes etc
 - Add more css contents
-
+- implementation of dropdown menu
+- accessibilty feature
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
